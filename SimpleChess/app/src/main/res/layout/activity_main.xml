@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.aghajari.simplechess.board.ChessBoard
+        android:id="@+id/board"
+        android:layout_marginVertical="56dp"
+        android:layout_marginHorizontal="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/log"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginBottom="56dp"
+        android:layout_gravity="bottom"/>
+
+</FrameLayout>
