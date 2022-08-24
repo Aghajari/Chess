@@ -28,6 +28,8 @@ I had no idea about this game and I didn't even know the rules. To learn this ga
 ## Output
 <img src="./images/output.gif" height=500/>
 
+[Download APK](./output.apk)
+
 ## Promotion
 > In chess, promotion is the replacement of a pawn with a new queen, rook, bishop, or knight of the same color. It occurs immediately when the pawn moves to its last rank, with the player choosing the piece of promotion. [Read more](https://en.wikipedia.org/wiki/Promotion_(chess))
 
